@@ -1,0 +1,500 @@
+    2  exit
+    3  clear
+    4  ls
+    5  cd bitstarter/
+    6  ls
+    7  emacs index.html 
+    8  fg
+    9  man screen
+   10  screen
+   11  screen
+   12  man screen
+   13  screen -i
+   14  cd $HOME
+   15  ll
+   16  vi
+   17  screen 
+   18  set -o emacs
+   19  screen
+   20  set -o vi
+   21  screen
+   22  exit
+   23  exit
+   24  set -o vi
+   25  
+   26  set -o vim
+   27  set -o emacs
+   28  man screen
+   29  exit
+   30  screen
+   31  exit
+   32  exit
+   33  set -o vi
+   34  screen
+   35  exit
+   36  1
+   37  exit
+   38  screen
+   39  exit
+   40  exit
+   41  clear
+   42  ls
+   43  cd tmp/
+   44  ls
+   45  ll
+   46  cd ../setup/
+   47  ls
+   48  cd ../
+   49  ls
+   50  screen 
+   51  exit
+   52  exit
+   53  exit
+   54  exit
+   55  screen
+   56  exit
+   57  exit
+   58  screen
+   59  screen
+   60  exit
+   61  0
+   62  echo $TERM
+   63  exit
+   64  exit
+   65  screen
+   66  echo $TERM
+   67  ls
+   68  ll
+   69  ll
+   70  vi .screenrc 
+   71  ls
+   72  vi setup/setup.sh 
+   73  man ln
+   74  man ln
+   75  ll
+   76  an sb
+   77  man sb
+   78  man ln
+   79  man rmln
+   80  help ln
+   81  info ln
+   82  man unlink
+   83  unlink .screenrc 
+   84  ll
+   85  exit
+   86  exit
+   87  exit
+   88  erer
+   89  screen
+   90  exit
+   91  screen
+   92  ll
+   93  ln .bashrc dotfiles/.bashrc
+   94  ln -s .bashrc dotfiles/.bashrc
+   95  ln -s .bashrc ./dotfiles/.bashrc
+   96  vi setup/setup.sh 
+   97  ln -sb dotfiles/.bashrc .
+   98  ls
+   99  ll
+  100  exit
+  101  exit
+  102  xit
+  103  exit
+  104  screen
+  105  cd setup/
+  106  ./setup.sh 
+  107  exit
+  108  exit
+  109  exit
+  110  screen
+  111  exit
+  112  ls
+  113  cd bitstarter/
+  114  ls
+  115  cd setup/
+  116  ls
+  117  ll
+  118  cp .bashrc ~/dotfiles/.bashrc
+  119  exit
+  120  ls
+  121  screen
+  122  ps
+  123  ps -a
+  124  man screen
+  125  ps
+  126  screen 
+  127  ls
+  128  rm -rf dotfiles.old/
+  129  LS
+  130  ks
+  131  ls
+  132  cd bitstarter/
+  133  ls
+  134  screen
+  135  cd bitstarter/
+  136  ls
+  137  vi index.html 
+  138  emacs index.html 
+  139  emacs web.js 
+  140  vi web.js 
+  141  fg
+  142  ls
+  143  mv index.html index2.html 
+  144  mv sample.html index.html 
+  145  ls
+  146  git status
+  147  git commit -m "bootstraped index"
+  148  git add index.html web.js
+  149  git commit -m "bootstraped index"
+  150  git push origin master
+  151  exit
+  152  ls
+  153  cd bitstarter/
+  154  ls
+  155  node web.js 
+  156  ps
+  157  node web.js 
+  158  fg
+  159  node web.js 
+  160  ls
+  161  man zip
+  162  man apt-get
+  163  man gzip
+  164  sudo apt-get http://twitter.github.io/bootstrap/assets/bootstrap.zip
+  165  wget http://twitter.github.io/bootstrap/assets/bootstrap.zip
+  166  ls
+  167  man gzip
+  168  man tar
+  169  ls
+  170  man tar
+  171  ls
+  172  man gunzip
+  173  gzip -d bootstrap.zip .
+  174  gzip bootstrap.zip .
+  175  gzip bootstrap.zip 
+  176  man gzip
+  177  fg
+  178  fg
+  179  fg
+  180  fg
+  181  fg
+  182  ls
+  183  ls
+  184  ls
+  185  gzip -d bootstrap.zip.gz 
+  186  ls
+  187  man gzip
+  188  fg
+  189  unzip bootstrap.zip 
+  190  man zip
+  191  man gzip
+  192  unzip bootstrap.zip 
+  193  sudo apt-get install unzip
+  194  ls
+  195  unzip bootstrap.zip 
+  196  ls
+  197  cd bootstrap/
+  198  ls
+  199  cd css/
+  200  ls
+  201  cd ../
+  202  cd ../
+  203  node web.js 
+  204  ls
+  205  ls
+  206  ks
+  207  ls
+  208  cd bootstrap/
+  209  ls
+  210  cd css/
+  211  ls
+  212  cd ../../
+  213  vi web.js 
+  214  ls
+  215  ll
+  216  vi web.js 
+  217  fg
+  218  node web.js 
+  219  exit
+  220  exut
+  221  exit
+  222  exit
+  223  ls
+  224  cd bitstarter/
+  225  ls
+  226  wget https://spark-public.s3.amazonaws.com/startup/code/bitstarter-hw4.html
+  227  ls
+  228  mv bitstarter-hw4.html sample.html
+  229  screen -r
+  230  screen -r
+  231  screen -r
+  232  exit
+  233  ls
+  234  cd bitstarter/
+  235  ls
+  236  git status
+  237  git add bootstrap
+  238  ls
+  239  git status
+  240  git commit -m 'bootstrap static file'
+  241  git push origin master
+  242  git pull 
+  243  git push origin master
+  244  ls
+  245  mv bootstrap static
+  246  node web.js 
+  247  mv static bootstrap
+  248  git pull
+  249  ls
+  250  node web.js 
+  251  exit
+  252  ls
+  253  cd bitstarter/
+  254  gi t status
+  255  git status
+  256  ls
+  257  vi \#web.js# 
+  258  vi web.js 
+  259  git pull https://github.com/annlove/bitstarter
+  260  ls
+  261  git status
+  262  rm web.js 
+  263  ls
+  264  rm \#web.js# 
+  265  node web.js 
+  266  git help
+  267  git help checkout
+  268  git branch develop
+  269  git status
+  270  git checkout develop
+  271  git status
+  272  git checkout -b staging
+  273  git status
+  274  git checkout develope
+  275  git checkout develop
+  276  ls
+  277  clear
+  278  ls
+  279  emacs index.html 
+  280  emacs index.html 
+  281  fg
+  282  fg
+  283  ls
+  284  wget https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Findex-fluid.html
+  285  ls
+  286  mv startup%2Fcode%2Findex-fluid.html index.html
+  287  node web.js 
+  288  git status
+  289  ls
+  290  git add index.html
+  291  git status
+  292  git commit -b 'index for develop branch'
+  293  git commit -m 'index for develop branch'
+  294  git config --global user.name annlove
+  295  git config --global user.email annlove.tw@gmail.com
+  296   git commit --amend --reset-author
+  297  git commit --amend --reset-author
+  298  git status
+  299  git push https://github.com/annlove/bitstarter
+  300  git push origin develop
+  301  git branch
+  302  git help merge
+  303  git help
+  304  git checkout master 
+  305  git status
+  306  git help push
+  307  git loh
+  308  git log
+  309  git status
+  310  git help
+  311  git log
+  312  git status
+  313  git help
+  314  git branch develop 
+  315  git checkout  develop 
+  316  git status
+  317  ls
+  318  emacs index.html 
+  319  emacs index.html 
+  320  git status
+  321  git checkout staging 
+  322  git help stash
+  323  git help stash
+  324  git help stash
+  325  git stash
+  326  vi index.html 
+  327  git help stash
+  328  git stash pop
+  329  git checkout staging 
+  330  git stash
+  331  git checkout staging 
+  332  vi index.html 
+  333  git status
+  334  git add index.html
+  335  git commit -m "index for branch staging"
+  336  git status
+  337  git push origin staging 
+  338  git push origin staging 
+  339  git help merge
+  340  git help merge
+  341  git merge develop
+  342  git help merge
+  343  git merge --commit develop 
+  344  ls
+  345  vi index.html 
+  346  git merge develop
+  347  git status
+  348  vi index.html 
+  349  git add index.html
+  350  git merge develop
+  351  git commit -m "index for branch staging?"
+  352  git status
+  353  vi index.html 
+  354  git status
+  355  git merge develop
+  356  vi index.html 
+  357  git checkout develop 
+  358  vi index.html 
+  359  git merge staging
+  360  vi index.html 
+  361  git status
+  362  git checkout develop 
+  363  git checkout staging 
+  364  ls
+  365  vi index.html 
+  366  git checkout develop 
+  367  vi index.html 
+  368  wget https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Findex-fluid.html
+  369  mv startup%2Fcode%2Findex-fluid.html index.html
+  370  git status
+  371  git add index.html
+  372  git commit -m "index for develop 2"
+  373  git checkout staging 
+  374  vi index.html 
+  375  git checkout develop 
+  376  vi index.html 
+  377  git checkout staging 
+  378  git merge develop
+  379  git status
+  380  vi index.html 
+  381  node web.js 
+  382  ls
+  383  git status
+  384  git push origin staging
+  385  git checkout master 
+  386  git merge staging 
+  387  vi index.html 
+  388  node web.js 
+  389  git help merge
+  390  git help
+  391  git help revert 
+  392  git status
+  393  git push origin master 
+  394  git log
+  395  git checkout staging 
+  396  git log
+  397  git log
+  398  git checkout master 
+  399  git revert 
+  400  git revert -n
+  401  git help  revert
+  402  git revert help
+  403  git help revert
+  404  git revert -n master~1
+  405  git help revert
+  406  git revert -n master~2
+  407  vi index.html 
+  408  git revert -n master~3
+  409  vi index.html 
+  410  git revert -n master~4
+  411  vi index.html 
+  412  git pull
+  413  git status
+  414  git rm index.html
+  415  ls
+  416  git pull
+  417  ls
+  418  ls
+  419  cd ..
+  420  ls
+  421  cd bitstarter/
+  422  git pull https://github.com/annlove/bitstarter
+  423  ls
+  424  git status
+  425  git reset HEAD index.html
+  426  ls
+  427  git status
+  428  git checkout -- index.html
+  429  ls
+  430  vi index.html 
+  431  node web.js 
+  432  git revert -n master~6
+  433  vi index.html 
+  434  exit
+  435  ls
+  436  cd bitstarter/
+  437  git pull
+  438  node web.js 
+  439  heroku
+  440  git push heroku master
+  441  git remote -v
+  442  heroku git:remote -a fierce-inlet-3418
+  443  git remote -v
+  444  git push heroku master 
+  445  heroku keys:add ~/.ssh/id_rsa.pub
+  446  cd ~
+  447  ls
+  448  vi .ssh/authorized_keys 
+  449  ssh-keygen -t rsa -C "annlove.tw@gmail.com"
+  450  heroku keys:add ~/.ssh/id_rsa.pub
+  451  git push heroku master 
+  452  cd bitstarter/
+  453  git push heroku master 
+  454  git push --help
+  455  git pull 
+  456  git push heroku master 
+  457  git push 
+  458  vi index
+  459  vi index.html 
+  460  git push 
+  461  git push heroku master 
+  462  git pull --help
+  463  git pull heroku 
+  464  vi index.html 
+  465  git status
+  466  git pull --help
+  467  git remote -v
+  468  vi web.js 
+  469  git push heroku master 
+  470  git pull heroku/master 
+  471  git pull heroku
+  472  git pull heroku master
+  473  vi web.js 
+  474  git status
+  475  ls
+  476  vi web.js 
+  477  git branch develop 
+  478  git checkout  develop 
+  479  git merge --help
+  480  git status
+  481  git checkout help
+  482  git help checkout 
+  483  git checkout --ours web.js
+  484  vi web.js 
+  485  git status
+  486  git add web.js
+  487  git commit -m "resolve conflic"
+  488  git push heroku master 
+  489  git push origin master 
+  490  git pull
+  491  git diff
+  492  git diff index.html
+  493  git status
+  494  node web.js 
+  495  git pull heroku master
+  496  vi index.html 
+  497  git push heroku master 
+  498  exit
+  499  history
+  500  ls
+  501  history >> bitstarter/hw/cmdHis.txt
